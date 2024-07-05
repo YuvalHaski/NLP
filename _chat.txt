@@ -1,0 +1,48 @@
+[03/06/2024, 12:29:50] מדברים באנגלית: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[03/06/2024, 12:29:50] מדברים באנגלית: ‎You created group “מדברים באנגלית”
+[03/06/2024, 12:30:07] יובל חזקי: hey noam how are you?
+[03/06/2024, 12:31:07] נועם תוכנה: Hey!! I’m good thanks how about you
+[03/06/2024, 12:31:39] נועם תוכנה: What are you going to do today
+[03/06/2024, 12:32:33] יובל חזקי: i am great! I finally got to sleep a bit ‎<This message was edited>
+[03/06/2024, 12:33:05] יובל חזקי: going to afeka to learn requirement analysis
+[03/06/2024, 12:33:12] יובל חזקי: very exited about it !
+[03/06/2024, 12:33:37] נועם תוכנה: Oh no
+[03/06/2024, 12:34:01] יובל חזקי: why don't you love this course?
+[03/06/2024, 12:34:23] נועם תוכנה: If you are existed from this course we have a problem ‎<This message was edited>
+[03/06/2024, 12:34:55] נועם תוכנה: My worst nightmare
+[03/06/2024, 12:35:20] יובל חזקי: haha I am kidding noam 😅
+[03/06/2024, 12:35:43] יובל חזקי: i think the roles have changed today and now you are the hangover one
+[03/06/2024, 12:36:12] יובל חזקי: noam lets tell gpt to write big paragraphs of text so we have a lot of text here
+[03/06/2024, 12:36:18] יובל חזקי: what do you say?
+[03/06/2024, 12:37:13] נועם תוכנה: Good idea
+[03/06/2024, 12:37:17] יובל חזקי: Hey! How's it going? I hope everything's good with you. It's been a while since we last talked, and I missed catching up with you. I'm currently learning natural language processing and it's really interesting! What's new with you? How's work or school going? I'd love to meet up for coffee or something soon. Let's catch up soon!
+[03/06/2024, 12:37:20] נועם תוכנה: Let’s enhance this idea
+[03/06/2024, 12:37:42] נועם תוכנה: Ask him to generate a conversation
+[03/06/2024, 12:37:53] נועם תוכנה: Between us
+[03/06/2024, 12:37:53] יובל חזקי: on it
+[03/06/2024, 12:41:49] יובל חזקי: I’ve been good, just keeping busy with work and some new hobbies. You wouldn’t believe it, but I’ve started learning about natural language processing. It’s really fascinating!
+[03/06/2024, 12:42:33] נועם תוכנה: No way! That’s awesome. I’ve heard a bit about it but don’t know much. What got you into that?
+[03/06/2024, 12:44:43] יובל חזקי: I stumbled upon an article about how it’s used in AI and got curious. Next thing I knew, I was signing up for an online course. It’s been a fun challenge.
+[03/06/2024, 12:46:21] נועם תוכנה: That’s really cool. I’ve been meaning to pick up a new skill too, but I’ve been swamped with work. We’ve had a bunch of new projects at the office and it’s been all hands on deck.
+[03/06/2024, 12:47:29] יובל חזקי: Sounds intense. What kind of projects are you working on?
+[03/06/2024, 12:47:49] נועם תוכנה: Mostly software development. We’re upgrading our system’s backend and it’s been a lot of late nights debugging and testing. But it’s coming along well.
+[03/06/2024, 12:47:56] יובל חזקי: That sounds tough but rewarding. I know those late nights can be a drag, though. How are you balancing everything?
+[03/06/2024, 12:48:21] נועם תוכנה: It’s a struggle sometimes. I try to squeeze in some exercise and make sure I’m eating well. And I’ve been catching up on some good shows to relax. Have you seen anything good lately?
+[03/06/2024, 12:48:28] יובל חזקי: Actually, yeah! I just finished watching "The Mandalorian". It’s so good! The storyline, the characters, everything. Highly recommend it if you’re into Star Wars.
+[03/06/2024, 12:48:45] נועם תוכנה: Oh, I’ve been hearing great things about it! I’ll have to add it to my list. I’ve been watching "Stranger Things". It’s so gripping, I can’t stop.
+[03/06/2024, 12:48:59] יובל חזקי: Stranger Things is amazing. The nostalgia, the suspense—everything about it is just right. Speaking of nostalgia, remember those game nights we used to have?
+[03/06/2024, 12:49:19] נועם תוכנה: Of course! Those were the best. We should definitely plan one soon. I’ve got a couple of new board games that I think you’d love.
+[03/06/2024, 12:49:21] יובל חזקי: That sounds like a plan! I’m in. We should get the old gang together. How’s everyone doing, by the way? Have you kept in touch?
+[03/06/2024, 12:49:55] נועם תוכנה: Yeah, I’ve been in touch with a few. Sam just got a new job and is super excited about it. Emma’s been traveling a lot for her photography projects. It’s amazing to see everyone doing so well.
+[03/06/2024, 12:50:16] יובל חזקי: That’s great to hear. We should definitely all catch up. Maybe we can do a game night at my place next weekend?
+[03/06/2024, 12:50:39] נועם תוכנה: That sounds perfect. I’ll check with everyone and get back to you. It’ll be great to see everyone again.
+[03/06/2024, 12:50:52] יובל חזקי: Awesome! I’ll start prepping. Oh, and I’ve been trying out some new recipes. Might have to show off my cooking skills a bit.
+[03/06/2024, 12:51:32] נועם תוכנה: Nice! I’m looking forward to it. Your cooking is always a hit. By the way, I wanted to ask—have you tried any new books lately? I’m looking for some recommendations.
+[03/06/2024, 12:51:37] יובל חזקי: I’ve been reading "Sapiens" by Yuval Noah Harari. It’s a deep dive into the history of humankind. Really thought-provoking and well-written. You should check it out.
+[03/06/2024, 12:52:07] נועם תוכנה: That’s been on my list for a while. I’ll definitely bump it up. Thanks for the rec! Oh, I almost forgot to tell you—I’ve been trying my hand at gardening. Got a little herb garden going on my balcony.
+[03/06/2024, 12:52:17] יובל חזקי: That’s fantastic! I’ve always wanted to do that but never got around to it. What herbs are you growing?
+[03/06/2024, 12:54:40] נועם תוכנה: So far, I’ve got basil, mint, and rosemary. It’s been surprisingly therapeutic. Plus, it’s nice to have fresh herbs for cooking.
+[03/06/2024, 12:55:23] יובל חזקי: Sounds like a great setup. Fresh herbs really do make a difference in cooking. Maybe I’ll get some tips from you and start my own little garden.
+[03/06/2024, 12:55:50] נועם תוכנה: Anytime! It’s easier than it seems. Anyway, I should get back to some work. But let’s keep in touch and definitely plan that game night.
+[03/06/2024, 12:55:55] יובל חזקי: For sure. It was great catching up. Take care, and talk soon!
+[03/06/2024, 12:56:21] נועם תוכנה: You too. Take care! ‎<This message was edited>
