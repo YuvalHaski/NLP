@@ -17,8 +17,11 @@
 [03/06/2024, 12:37:13] נועם תוכנה: Good idea
 [03/06/2024, 12:37:17] יובל חזקי: Hey! How's it going? I hope everything's good with you. It's been a while since we last talked, and I missed catching up with you. I'm currently learning natural language processing and it's really interesting! What's new with you? How's work or school going? I'd love to meet up for coffee or something soon. Let's catch up soon!
 [03/06/2024, 12:37:20] נועם תוכנה: Let’s enhance this idea
-[03/06/2024, 12:37:42] נועם תוכנה: today was a beautiful day
-[03/06/2024, 12:37:42] נועם תוכנה: he eats a cake with a spoon
+[03/06/2024, 12:37:42] נועם תוכנה: early today was a beautiful day
+[03/06/2024, 12:37:42] נועם תוכנה: the sun shone brightly warming the ground
+[03/06/2024, 12:37:42] נועם תוכנה: I went to the beach with a friend
+[03/06/2024, 12:37:42] נועם תוכנה: the children ate ice-cream
+[03/06/2024, 12:37:42] נועם תוכנה: the clever detective solved the mysterious case
 [03/06/2024, 12:37:42] נועם תוכנה: Ask him to generate a conversation
 [03/06/2024, 12:37:53] נועם תוכנה: Between us
 [03/06/2024, 12:37:53] יובל חזקי: on it
@@ -44,7 +47,7 @@
 [03/06/2024, 12:52:07] נועם תוכנה: That’s been on my list for a while. I’ll definitely bump it up. Thanks for the rec! Oh, I almost forgot to tell you—I’ve been trying my hand at gardening. Got a little herb garden going on my balcony.
 [03/06/2024, 12:52:17] יובל חזקי: That’s fantastic! I’ve always wanted to do that but never got around to it. What herbs are you growing?
 [03/06/2024, 12:54:40] נועם תוכנה: So far, I’ve got basil, mint, and rosemary. It’s been surprisingly therapeutic. Plus, it’s nice to have fresh herbs for cooking.
-[03/06/2024, 12:55:23] יובל חזקי: Sounds like a great setup. Fresh herbs really do make a difference in cooking. Maybe I’ll get some tips from you and start my own little garden.
+[03/06/2024, 12:55:23] יובל חזקי: Sounds like a great idea. Fresh herbs really do make a difference in cooking. Maybe I’ll get some tips from you and start my own little garden.
 [03/06/2024, 12:55:50] נועם תוכנה: Anytime! It’s easier than it seems. Anyway, I should get back to some work. But let’s keep in touch and definitely plan that game night.
 [03/06/2024, 12:55:55] יובל חזקי: For sure. It was great catching up. Take care, and talk soon!
 [03/06/2024, 12:56:21] נועם תוכנה: You too. Take care! ‎<This message was edited>
