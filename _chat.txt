@@ -17,6 +17,8 @@
 [03/06/2024, 12:37:13] נועם תוכנה: Good idea
 [03/06/2024, 12:37:17] יובל חזקי: Hey! How's it going? I hope everything's good with you. It's been a while since we last talked, and I missed catching up with you. I'm currently learning natural language processing and it's really interesting! What's new with you? How's work or school going? I'd love to meet up for coffee or something soon. Let's catch up soon!
 [03/06/2024, 12:37:20] נועם תוכנה: Let’s enhance this idea
+[03/06/2024, 12:37:42] נועם תוכנה: today was a beautiful day
+[03/06/2024, 12:37:42] נועם תוכנה: he eats a cake with a spoon
 [03/06/2024, 12:37:42] נועם תוכנה: Ask him to generate a conversation
 [03/06/2024, 12:37:53] נועם תוכנה: Between us
 [03/06/2024, 12:37:53] יובל חזקי: on it
